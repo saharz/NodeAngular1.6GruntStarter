@@ -1,0 +1,28 @@
+{
+  "author": "Sahar Zakay",
+  "name": "web_res",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "description": "",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saharz/NodeAngular1.6GruntStarter.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "body-parser": "~1.4.2",
+    "bower": "1.7.9",
+    "express": "~4.5.1",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-html2js": "^0.5.1",
+    "grunt-include-source": "^1.1.0",
+    "method-override": "~2.0.2"
+  }
+}

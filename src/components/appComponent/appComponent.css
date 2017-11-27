@@ -1,0 +1,55 @@
+.groups-container{
+    width: 350px;
+    display: inline-block;
+    float: left;
+}
+
+.group-item-container{
+    width: 100%;
+    position: relative;
+}
+
+.groups-title{
+    margin-left: 20px;
+    text-decoration: underline;
+}
+
+.summary-title{
+    margin-left: 50px;
+    text-decoration: underline;
+}
+
+.checkbox-list-title{
+    margin-left: 50px;
+    text-decoration: underline;
+}
+
+.summary-container{
+    width: 350px;
+    display: inline-block;
+    float: left;
+}
+
+.checkbox-list-container{
+    width: 350px;
+    display: inline-block;
+    float: left;
+    margin-left: 10px;
+}
+
+.radio-list-container{
+    width: 350px;
+    display: inline-block;
+    float: left;
+    margin-left: 10px;
+}
+
+.radio-list-title{
+    margin-left: 50px;
+    text-decoration: underline;
+}
+
+.summary-container > button {
+    margin-left: 50px;
+    margin-top: 5px;
+}
